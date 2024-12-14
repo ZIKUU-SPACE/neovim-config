@@ -3,5 +3,6 @@
 ZIKUUで使用しているNeovimの設定です。インストールするには次のコマンドを実行します。
 
 ```
-$ cd $HOME/.config
+$ git clone https://github.com/ZIKUU-SPACE/neovim-config.git #HOME/.config/nvim
+```
 
