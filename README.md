@@ -31,7 +31,9 @@ git clone --depth 1 https://github.com/wbthomason/packer.nvim\
 
 nvimを起動して、PackerInstallコマンドを実行します。
 
-## Extra
+## おまけ
+
+Rust言語に対応
 
 [Rust and Neovim - A Thorough Guide and Walkthrough
 ](https://rsdlt.github.io/posts/rust-nvim-ide-guide-walkthrough-development-debug/)
