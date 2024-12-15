@@ -15,4 +15,5 @@ else
   print 'Telescope not found'
 end
 
+vim.keymap.set('n', '<leader>tt', '<cmd>NvimTreeToggle<CR>')
 
