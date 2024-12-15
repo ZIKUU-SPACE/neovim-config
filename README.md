@@ -1,9 +1,8 @@
 # Noevim config by ZIKUU
 
-## Neovimのインストール
-
-
 ZIKUUで使用しているNeovimの設定です。インストールするには次のコマンドを実行します。
+
+## Neovimのインストール
 
 ```
 sudo add-apt-repository ppa:neovim-ppa/unstable
